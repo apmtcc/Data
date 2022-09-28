@@ -1,7 +1,7 @@
 # Data
 
-*.pdf: Origininal file that one can modify it.
+*.pptx: Origininal file that one can modify it.
 
-*.ppt: Generate pdf file.
+*.pdf: Generate pdf file.
 
-*.xlms: Data used to generate the corresponding figure.
+*.xlsx: Data used to generate the corresponding figure.
